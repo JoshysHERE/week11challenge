@@ -3,7 +3,7 @@
 ## Description:
   Note Taker!
 ## Deployed Application URL:
- GitHub Pages:  
+ GitHub Pages:  https://joshyshere.github.io/week11challenge/
 ## Table of Contents
 * [Installation](#installation)
 * [Contributors](#contributors)
